@@ -1,0 +1,22 @@
+1.Call jQuery for slider
+2.Basic JavaScript Code (for activating it)
+3.Call Stylesheet
+4.Put Images/Content Correctly
+5.Test and Enjoy
+
+Search nivo slider on google(if you don't have it)
+style.css not required
+copy themes dir
+copy jquery.nivo.slider.js
+copy jquery-1.9.0.min.js
+keep them in js dir
+copy nivo-slider.css
+copy css codes and put your style.css at last in head section.. these are the link codes
+fix the imported link addresses
+call(copy) script codes in the body section
+fix the imported code addresses
+copy main div into body section
+fix image addresses
+
+it is responsive
+you can change themes
